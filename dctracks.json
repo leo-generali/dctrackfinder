@@ -1,0 +1,41 @@
+[
+  {
+    "name": "Banneker Recreation Center",
+    "affiliation": "DC Department of Parks and Recreation",
+    "address": "2500 Georgia Avenue NW, Washington DC, 20001",
+    "closestMetro": "U Street/African-Amer Civil War Memorial/Cardozo",
+    "neighborhood": "Shaw",
+    "hours": {
+      "monday": ["3:30pm - 9:00pm"],
+      "tuesday": ["3:30pm - 9:00pm"],
+      "wednesday": ["3:30pm - 9:00pm"],
+      "thursday": ["3:30pm - 9:00pm"],
+      "friday": ["3:30pm - 9:00pm"],
+      "saturday": ["10:00am - 4:00pm"],
+      "sunday": ["10:00am - 4:00pm"]
+    },
+    "size": "400",
+    "lanes": "3",
+    "notes": "Square shape."
+  },
+  {
+    "name": "Cardozo High School Track",
+    "affiliation": "Cardozo High School",
+    "address": "1200 Clifton St NW, Washington, DC 20009",
+    "closestMetro": "U Street/African-Amer Civil War Memorial/Cardozo",
+    "neighborhood": "Shaw",
+    "hours": {
+      "monday": ["6:30am - 8:00am", "6:00pm- 10:00pm"],
+      "tuesday": ["6:30am - 8:00am", "6:00pm- 10:00pm"],
+      "wednesday": ["6:30am - 8:00am", "6:00pm- 10:00pm"],
+      "thursday": ["6:30am - 8:00am", "6:00pm- 10:00pm"],
+      "friday": ["6:30am - 8:00am"],
+      "saturday": ["Closed"],
+      "sunday": ["Closed"]
+    },
+    "size": "400",
+    "lanes": "4",
+    "notes": "One side is slightly larger than the other. Closed if school is not in session."
+  }
+]
+
